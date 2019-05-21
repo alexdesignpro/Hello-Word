@@ -1,2 +1,3 @@
 # Hello-Word
-Teste
+
+Olá, isso é apenas um exercício. tks!
